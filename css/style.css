@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: #000000;
+    color: #f6f6f6;
+}
+
+h1{
+    font-weight: 200;
+}
+.destaque-titulo{
+    color: #22D4FD;
+    font-weight: bold;
+}
+.apresentacao{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10%;
+}
+
+.apresentacao__texto{
+    width: 615px;
+    height: 482px;
+}
+.apresentacao__texto__titulo{
+    font-size: 36px;
+}
+.apresentacao__texto__paragrafo{
+    font-size: 24px;
+}
