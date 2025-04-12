@@ -21,8 +21,9 @@ h1{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin: 10%; 
-    padding: 45px;
+    margin: 10% 15%;
+    gap: 40px;
+
 }
 
 .apresentacao__texto{
@@ -56,6 +57,7 @@ h1{
     width: 280px;
     height: 79px;
     border-radius: 16px;
+    box-shadow: 2px 2px 5px aqua;
     text-align: center;
     padding: 21.5px 0;
     color: #000000;
